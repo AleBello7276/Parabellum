@@ -1,0 +1,4 @@
+# window creation that can be controlled
+# rewrite the Entity/Object system
+# rewrite the renderer
+# --

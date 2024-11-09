@@ -1,6 +1,6 @@
-using Bellunity.Renderer;
+using Parabellum.Renderer;
 
-namespace Bellunity.Scene
+namespace Parabellum.Scene
 {
     public class Scene
     {

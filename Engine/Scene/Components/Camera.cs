@@ -1,7 +1,7 @@
-using Bellunity.Renderer;
+using Parabellum.Renderer;
 using OpenTK.Mathematics;
 
-namespace Bellunity.Scene
+namespace Parabellum.Scene
 {
     public class Camera : BaseCamera
     {

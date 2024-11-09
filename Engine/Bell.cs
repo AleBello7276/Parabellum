@@ -1,13 +1,13 @@
 
-using Bellunity.Renderer;
-using Bellunity.Scene;
-using Bellunity.Shaders;
+using Parabellum.Renderer;
+using Parabellum.Scene;
+using Parabellum.Shaders;
 using OpenTK.Graphics.OpenGL4;
 using OpenTK.Windowing.Common;
 using OpenTK.Windowing.Desktop;
 using OpenTK.Windowing.GraphicsLibraryFramework;
 
-namespace Bellunity
+namespace Parabellum
 {
     public class Bell : GameWindow
     {

@@ -1,6 +1,6 @@
 using OpenTK.Mathematics;
 
-namespace Bellunity.Scene
+namespace Parabellum.Scene
 {
     public class PlayerObject : Object
     {

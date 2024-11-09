@@ -1,6 +1,6 @@
 ﻿
-using Bellunity;
-using Bellunity.Scene;
+using Parabellum;
+using Parabellum.Scene;
 using OpenTK.Graphics.OpenGL;
 using OpenTK.Mathematics;
 

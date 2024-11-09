@@ -1,4 +1,4 @@
-namespace Bellunity.Scene
+namespace Parabellum.Scene
 {
     public class Component 
     {

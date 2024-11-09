@@ -1,7 +1,7 @@
-using Bellunity.Renderer;
-using Bellunity.Shaders;
+using Parabellum.Renderer;
+using Parabellum.Shaders;
 
-namespace Bellunity.Scene
+namespace Parabellum.Scene
 {
     public class Shader : Component
     {

@@ -1,13 +1,13 @@
 using System.Data.Common;
 using System.Security.Cryptography.X509Certificates;
-using Bellunity.Scene;
-using Bellunity.Shaders;
+using Parabellum.Scene;
+using Parabellum.Shaders;
 using OpenTK.Graphics.OpenGL4;
 using OpenTK.Windowing.Common;
 using OpenTK.Windowing.Desktop;
 using OpenTK.Windowing.GraphicsLibraryFramework;
 
-namespace Bellunity.Renderer
+namespace Parabellum.Renderer
 {
     public class QueueItem
     {
